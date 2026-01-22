@@ -53,7 +53,7 @@ I am a **Python Developer** from **Mumbai** focused on **AI Agents** and **Workf
 
 | Project | Description | Tech Focus |
 | :--- | :--- | :--- |
-| **🎙️ [Cypher AI](https://github.com/pattanayakpratik/Cypher-AI-Assistant)** | **Autonomous Voice Agent.** Controls Windows hardware, manages apps, and executes complex tasks via voice commands. | `Agentic AI` `SpeechRecognition` |
+| **🎙️ [Cypher AI](https://github.com/pattanayakpratik/Cypher-AI)** | **Autonomous Voice Agent.** Controls Windows hardware, manages apps, and executes complex tasks via voice commands. | `Agentic AI` `SpeechRecognition` |
 | **📡 [PyShare](https://github.com/pattanayakpratik/PyShare)** | **Local Network Automation.** Instantly transfers files between devices via WiFi/HTTP with QR code pairing. | `Socket Programming` `HTTP` |
 | **💰 [Expense Tracker](https://github.com/pattanayakpratik/Expense-Tracker-GUI)** | **Financial Dashboard.** Modern glassmorphism UI with real-time analytics and data visualization. | `Data Viz` `Modern GUI` |
 | **📍 [Smart Attendance](https://github.com/pattanayakpratik/attendance_project)** | **System Automation.** QR-code based attendance system with GPS geofencing and Excel bulk import. | `Flask API` `Computer Vision` |
