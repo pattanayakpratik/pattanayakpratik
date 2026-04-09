@@ -63,12 +63,10 @@ I am a **Python Developer** from **Mumbai** focused on **AI Agents** and **Workf
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/pattanayakpratik">
-    <img src="https://github-readme-stats.vercel.app/api?username=pattanayakpratik&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/pattanayakpratik">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattanayakpratik&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
-  </a>
+
+[![Pratik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pattanayakpratik&theme=radical&hide_border=true)](https://github.com/pattanayakpratik)
+  [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pattanayakpratik&theme=radical)](https://github.com/pattanayakpratik)
+
 </div>
 
 <br />
