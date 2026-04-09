@@ -36,7 +36,7 @@ I am a **Python Developer** from **Mumbai** focused on **AI Agents** and **Workf
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlebard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -63,8 +63,12 @@ I am a **Python Developer** from **Mumbai** focused on **AI Agents** and **Workf
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pattanayakpratik&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattanayakpratik&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="languages graph" />
+  <a href="https://github.com/pattanayakpratik">
+    <img src="https://github-readme-stats.vercel.app/api?username=pattanayakpratik&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/pattanayakpratik">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pattanayakpratik&layout=compact&theme=radical&hide_border=true&langs_count=6" height="150" alt="Top Languages" />
+  </a>
 </div>
 
 <br />
