@@ -22,7 +22,6 @@
 I am a **Python Developer** from **Mumbai** focused on **AI Agents** and **Workflow Automation**. I specialize in bridging the gap between Generative AI (Gemini) and practical desktop control. My goal is to build efficient tools that think and act autonomously.
 
 * 🔭 I’m currently building **Autonomous AI Agents** (Project Cypher).
-* 🎓 Final-year **B.Sc. IT** student with a passion for **System Architecture**.
 * 🧠 I specialize in **Socket Programming**, **Flask APIs**, and **LLM Integration**.
 * ⚡ Fun fact: I turn coffee into automated Python scripts. ☕ ➡️ 🐍
 
