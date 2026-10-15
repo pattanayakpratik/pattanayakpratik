@@ -1,75 +1,99 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=3B8ED0&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Pratik!+%F0%9F%91%8B;Building+Autonomous+AI+Agents+%F0%9F%A4%96;Automating+the+World+with+Python+%F0%9F%90%8D" alt="Typing SVG" />
+  <a href="https://pattanayakpratik.vercel.app">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D2D3&center=true&vCenter=true&width=750&lines=Hi+there,+I'm+Pratik+Pattanayak+%F0%9F%91%8B;Backend+%26+AI+Engineer+%E2%9A%A1;Building+Scalable+APIs+%26+Production+GenAI+%F0%9F%A4%96;AWS+Certified+Machine+Learning+%26+AI+%F0%9F%8E%96%EF%B8%8F" alt="Typing SVG" />
   </a>
 </div>
 
 <h3 align="center">
-  🤖 AI & Automation Specialist | 🐍 Python Developer | 🛠️ System Architect
+  ⚡ Backend & AI Engineer · Architecting Scalable Systems & Generative AI Workflows
 </h3>
 
 <div align="center">
 
+  [![Live Portfolio](https://img.shields.io/badge/Live_Portfolio-pattanayakpratik.vercel.app-00D2D3?style=for-the-badge&logo=vercel&logoColor=black)](https://pattanayakpratik.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pattanayakpratik)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/pattanayakpratik/)
   [![Gmail](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.pratikpattanayak@gmail.com)
-  
+
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a **Python Developer** from **Mumbai** focused on **AI Agents** and **Workflow Automation**. I specialize in bridging the gap between Generative AI (Gemini) and practical desktop control. My goal is to build efficient tools that think and act autonomously.
+I am a **Backend & AI Engineer** from **Mumbai, India**. Currently building high-performance backend systems and analytics infrastructure at **[@dirtcubeinteractive](https://github.com/dirtcubeinteractive)**. I specialize in architecting scalable REST APIs, event-driven data pipelines, and production-grade **Generative AI** workflows.
 
-* 🔭 I’m currently building **Autonomous AI Agents** (Project Cypher).
-* 🧠 I specialize in **Socket Programming**, **Flask APIs**, and **LLM Integration**.
-* ⚡ Fun fact: I turn coffee into automated Python scripts. ☕ ➡️ 🐍
+* 🚀 **Current Focus**: Scalable Backend Architecture, High-throughput Analytics APIs, and Autonomous AI Agents.
+* 🎓 **Education**: **B.Sc. IT (CGPI 8.65)**
+* 🎖️ **Certifications**: **AWS Certified Machine Learning & AI**
+* 🌐 **Interactive Portfolio**: Explore my live portfolio with interactive terminal and dual-theme at **[pattanayakpratik.vercel.app](https://pattanayakpratik.vercel.app)**
+* ⚡ **Fun fact**: I turn complex asynchronous workflows into clean, deterministic Python pipelines. ☕ ➡️ 🐍
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+#### 🐍 Backend & Systems
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Socket Programming](https://img.shields.io/badge/Sockets-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+#### 🤖 AI & Machine Learning
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![RAG & Agents](https://img.shields.io/badge/Agentic_AI-FF6F61?style=for-the-badge&logo=robot&logoColor=white)
 
-  <img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+#### 🌐 Frontend & Web
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+#### ☁️ Cloud, DevOps & Databases
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
 ---
 
-### 🚀 Featured Automation Projects
+### 🚀 Featured Projects
 
-| Project | Description | Tech Focus |
-| :--- | :--- | :--- |
-| **🎙️ [Cypher AI](https://github.com/pattanayakpratik/Cypher-AI)** | **Autonomous Voice Agent.** Controls Windows hardware, manages apps, and executes complex tasks via voice commands. | `Agentic AI` `SpeechRecognition` |
-| **📡 [PyShare](https://github.com/pattanayakpratik/PyShare)** | **Local Network Automation.** Instantly transfers files between devices via WiFi/HTTP with QR code pairing. | `Socket Programming` `HTTP` |
-| **💰 [Expense Tracker](https://github.com/pattanayakpratik/Expense-Tracker-GUI)** | **Financial Dashboard.** Modern glassmorphism UI with real-time analytics and data visualization. | `Data Viz` `Modern GUI` |
-| **📍 [Smart Attendance](https://github.com/pattanayakpratik/attendance_project)** | **System Automation.** QR-code based attendance system with GPS geofencing and Excel bulk import. | `Flask API` `Computer Vision` |
+| Project | Description | Tech Focus | Live |
+| :--- | :--- | :--- | :---: |
+| 🌐 **[My Portfolio](https://github.com/pattanayakpratik/my_portfolio)** | **Next-Gen Developer Portfolio.** High-performance personal website featuring an interactive code terminal, dual dark/light themes, and automated CI/CD pipeline. | `Next.js 16` `Turbopack` `Tailwind` | [**Visit Site ↗**](https://pattanayakpratik.vercel.app) |
+| 🎙️ **[Cypher AI](https://github.com/pattanayakpratik/Cypher-AI)** | **Autonomous Voice Agent.** Futuristic desktop assistant controlling Windows hardware, apps, and multi-step tasks via natural voice commands and Gemini AI. | `Agentic AI` `PyQt5` `Gemini` | [**Code ↗**](https://github.com/pattanayakpratik/Cypher-AI) |
+| ⚡ **[AI Transaction Processing](https://github.com/pattanayakpratik/AI-Transaction-Processing-assignment-task)** | **Asynchronous Financial Pipeline.** Backend API accepting CSV transactions, asynchronous job queue processing, LLM anomaly classification, and polling summary reports. | `FastAPI` `Job Queues` `LLM` | [**Code ↗**](https://github.com/pattanayakpratik/AI-Transaction-Processing-assignment-task) |
+| 📡 **[PyShare](https://github.com/pattanayakpratik/PyShare)** | **Local Network Automation.** Ultra-fast file transfer between PC and mobile over local WiFi/HTTP with instant QR-code pairing. | `Sockets` `HTTP Server` `Network` | [**Code ↗**](https://github.com/pattanayakpratik/PyShare) |
+| 📍 **[Smart Attendance](https://github.com/pattanayakpratik/attendance_project)** | **Computer Vision System.** QR-code attendance management system with GPS geofencing and automated bulk Excel reporting. | `Flask` `OpenCV` `Geofencing` | [**Code ↗**](https://github.com/pattanayakpratik/attendance_project) |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Achievements
 
 <div align="center">
 
-[![Pratik's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pattanayakpratik&theme=radical&hide_border=true)](https://github.com/pattanayakpratik)
-  [![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pattanayakpratik&theme=radical)](https://github.com/pattanayakpratik)
-
-</div>
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=pattanayakpratik&theme=radical&hide_border=true)](https://github.com/pattanayakpratik)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pattanayakpratik&layout=compact&theme=radical&hide_border=true)](https://github.com/pattanayakpratik)
 
 <br />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pattanayakpratik&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
+#### 🏆 Badges & Achievements
+`🦈 Pull Shark (x2)` · `🚀 YOLO` · `⚡ Quickdraw` · `👥 Pair Extraordinaire`
+
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=pattanayakpratik&label=Profile%20Views&color=00D2D3&style=flat-square" alt="Profile Views" />
+
 </div>
