@@ -90,7 +90,7 @@ I am a **Backend & AI Engineer** from **Mumbai, India**. Currently building high
 <br />
 
 #### 🏆 Badges & Achievements
-`🦈 Pull Shark (x2)` · `🚀 YOLO` · `⚡ Quickdraw` · `👥 Pair Extraordinaire`
+`🦈 Pull Shark (x2)` · `🚀 YOLO` · `⚡ Quickdraw`
 
 <br />
 
