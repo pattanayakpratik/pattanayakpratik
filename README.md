@@ -41,6 +41,7 @@ I am a **Backend & AI Engineer** from **Mumbai, India**. Currently building high
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Socket Programming](https://img.shields.io/badge/Sockets-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
 
 #### 🤖 AI & Machine Learning
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
@@ -75,7 +76,7 @@ I am a **Backend & AI Engineer** from **Mumbai, India**. Currently building high
 | 🌐 **[My Portfolio](https://github.com/pattanayakpratik/my_portfolio)** | **Next-Gen Developer Portfolio.** High-performance personal website featuring an interactive code terminal, dual dark/light themes, and automated CI/CD pipeline. | `Next.js 16` `Turbopack` `Tailwind` | [**Visit Site ↗**](https://pattanayakpratik.vercel.app) |
 | 🎙️ **[Cypher AI](https://github.com/pattanayakpratik/Cypher-AI)** | **Autonomous Voice Agent.** Futuristic desktop assistant controlling Windows hardware, apps, and multi-step tasks via natural voice commands and Gemini AI. | `Agentic AI` `PyQt5` `Gemini` | [**Code ↗**](https://github.com/pattanayakpratik/Cypher-AI) |
 | ⚡ **[AI Transaction Processing](https://github.com/pattanayakpratik/AI-Transaction-Processing-assignment-task)** | **Asynchronous Financial Pipeline.** Backend API accepting CSV transactions, asynchronous job queue processing, LLM anomaly classification, and polling summary reports. | `FastAPI` `Job Queues` `LLM` | [**Code ↗**](https://github.com/pattanayakpratik/AI-Transaction-Processing-assignment-task) |
-| 📡 **[PyShare](https://github.com/pattanayakpratik/PyShare)** | **Local Network Automation.** Ultra-fast file transfer between PC and mobile over local WiFi/HTTP with instant QR-code pairing. | `Sockets` `HTTP Server` `Network` | [**Code ↗**](https://github.com/pattanayakpratik/PyShare) |
+| ⚡ **[PyShare](https://github.com/pattanayakpratik/PyShare)** | **Cross-Device File & Clipboard Hub.** Ultra-fast peer-to-peer file transfer and clipboard sync across PC, Mac, iOS & Android. Features zero-install WebRTC P2P web app, offline local Wi-Fi transfer, and standalone Windows desktop app. | `WebRTC` `P2P` `Python` `Sockets` | [**Web App ↗**](https://pyshare.vercel.app) • [**Download ↗**](https://github.com/pattanayakpratik/PyShare/releases) |
 | 📍 **[Smart Attendance](https://github.com/pattanayakpratik/attendance_project)** | **Computer Vision System.** QR-code attendance management system with GPS geofencing and automated bulk Excel reporting. | `Flask` `OpenCV` `Geofencing` | [**Code ↗**](https://github.com/pattanayakpratik/attendance_project) |
 
 ---
