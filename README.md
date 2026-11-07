@@ -72,14 +72,14 @@ I am a **Backend & AI Engineer** from **Mumbai, India**. Currently building high
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Focus | Live |
+| Project | Description | Tech Focus | Links |
 | :--- | :--- | :--- | :---: |
-| ⚡ **[PulseEngine](https://github.com/pattanayakpratik/PulseEngine)** | **Distributed Notification Infrastructure.** High-throughput event engine with ACID Transactional Outbox, 2-lane priority worker queues, Redis Lua token-bucket rate limiting, 24h idempotency guard, and AST JSON-to-SQL dynamic segment resolver. | `FastAPI` `Postgres` `Redis` `Next.js 16` | [**Live Demo ↗**](https://pulse-engine-dashboard-ten.vercel.app) • [**Code ↗**](https://github.com/pattanayakpratik/PulseEngine) |
-| 🌐 **[My Portfolio](https://github.com/pattanayakpratik/my_portfolio)** | **Next-Gen Developer Portfolio.** High-performance personal website featuring an interactive code terminal, project architecture deep dives, dual dark/light themes, and automated CI/CD pipeline. | `Next.js 16` `Turbopack` `Tailwind` | [**Visit Site ↗**](https://pattanayakpratik.vercel.app) |
-| ⚡ **[PyShare (v4.9.3)](https://github.com/pattanayakpratik/PyShare)** | **Cross-Device File & Clipboard Hub.** Ultra-fast peer-to-peer file transfer and clipboard sync across PC, Mac, iOS & Android. Features zero-install WebRTC P2P web app, offline local Wi-Fi transfer, LAN Quick Chat, and Windows Inno Setup installer. | `WebRTC` `P2P` `Python` `Sockets` | [**Web App ↗**](https://pyshare.vercel.app) • [**Download ↗**](https://github.com/pattanayakpratik/PyShare/releases/tag/v4.9.3) |
-| 🎙️ **[Cypher AI](https://github.com/pattanayakpratik/Cypher-AI)** | **Autonomous Voice Agent.** Futuristic desktop assistant controlling Windows hardware, apps, and multi-step tasks via natural voice commands and Gemini AI. | `Agentic AI` `PyQt5` `Gemini` | [**Code ↗**](https://github.com/pattanayakpratik/Cypher-AI) |
-| 📍 **[Smart Campus Attendance](https://github.com/pattanayakpratik/attendance_project)** | **Full-Stack Campus Platform.** High-security attendance tracking combining Next.js 16 admin studio, Flutter mobile client, Flask backend, and Supabase RLS with dynamic QR and GPS geofencing. | `Next.js 16` `Flutter` `Flask` `Supabase` | [**Web App ↗**](https://smartcampus-attendance.vercel.app) • [**Download APK ↗**](https://github.com/pattanayakpratik/attendance_project/releases/tag/v1.0.0) |
-| 💼 **[AI Transaction Processing](https://github.com/pattanayakpratik/AI-Transaction-Processing-assignment-task)** | **Asynchronous Financial Pipeline.** Backend API accepting CSV transactions, asynchronous job queue processing, LLM anomaly classification, and polling summary reports. | `FastAPI` `Job Queues` `LLM` | [**Code ↗**](https://github.com/pattanayakpratik/AI-Transaction-Processing-assignment-task) |
+| ⚡&nbsp;**[PulseEngine](https://github.com/pattanayakpratik/PulseEngine)** | **Distributed Notification Infrastructure.** High-throughput event engine with ACID Transactional Outbox, 2-lane priority worker queues, Redis token-bucket rate limiter, and AST dynamic segment resolver. | `FastAPI` `Postgres`<br>`Redis` `Next.js 16` | [**Live Demo ↗**](https://pulse-engine-dashboard-ten.vercel.app)<br>[**Code ↗**](https://github.com/pattanayakpratik/PulseEngine) |
+| 🌐&nbsp;**[My&nbsp;Portfolio](https://github.com/pattanayakpratik/my_portfolio)** | **Next-Gen Developer Portfolio.** High-performance website with interactive code terminal, project architecture deep dives, dual dark/light themes, and automated CI/CD pipeline. | `Next.js 16` `TypeScript`<br>`Turbopack` `Tailwind` | [**Visit Site ↗**](https://pattanayakpratik.vercel.app)<br>[**Code ↗**](https://github.com/pattanayakpratik/my_portfolio) |
+| ⚡&nbsp;**[PyShare&nbsp;(v4.9.3)](https://github.com/pattanayakpratik/PyShare)** | **Cross-Device File & Clipboard Hub.** Wire-speed P2P file transfer, LAN Quick Chat, and universal clipboard across PC, Mac, iOS & Android with zero setup or cloud dependency. | `WebRTC` `P2P`<br>`Python` `Sockets` | [**Web App ↗**](https://pyshare.vercel.app)<br>[**Download ↗**](https://github.com/pattanayakpratik/PyShare/releases/tag/v4.9.3) |
+| 🎙️&nbsp;**[Cypher&nbsp;AI](https://github.com/pattanayakpratik/Cypher-AI)** | **Autonomous Voice Agent.** Futuristic desktop assistant controlling Windows hardware, OS automation, and multi-step tasks via natural voice commands and Gemini AI. | `Agentic AI` `PyQt5`<br>`Gemini` `Automation` | [**Showcase ↗**](https://pattanayakpratik.vercel.app/projects/cypher)<br>[**Code ↗**](https://github.com/pattanayakpratik/Cypher-AI) |
+| 📍&nbsp;**[Smart&nbsp;Campus&nbsp;Attendance](https://github.com/pattanayakpratik/attendance_project)** | **Full-Stack Campus Platform.** High-security attendance tracking combining Next.js 16 admin studio, Flutter mobile client, Flask backend, and Supabase RLS with dynamic QR and geofencing. | `Next.js 16` `Flutter`<br>`Flask` `Supabase` | [**Web App ↗**](https://smartcampus-attendance.vercel.app)<br>[**Download APK ↗**](https://github.com/pattanayakpratik/attendance_project/releases/tag/v1.0.0) |
+| 💼&nbsp;**[AI&nbsp;Transaction&nbsp;Processing](https://github.com/pattanayakpratik/AI-Transaction-Processing-assignment-task)** | **Asynchronous Financial Pipeline.** Backend API accepting CSV transactions, asynchronous job queue processing, LLM anomaly classification, and polling summary reports. | `FastAPI` `Job Queues`<br>`LLM` `Async` | [**Code ↗**](https://github.com/pattanayakpratik/AI-Transaction-Processing-assignment-task) |
 
 ---
 
@@ -87,8 +87,12 @@ I am a **Backend & AI Engineer** from **Mumbai, India**. Currently building high
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=pattanayakpratik&theme=radical&hide_border=true)](https://github.com/pattanayakpratik)
-  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pattanayakpratik&layout=compact&theme=radical&hide_border=true)](https://github.com/pattanayakpratik)
+  <a href="https://github.com/pattanayakpratik">
+    <img src="https://streak-stats.demolab.com/?user=pattanayakpratik&theme=radical&hide_border=true" alt="GitHub Streak" height="165" />
+  </a>
+  <a href="https://github.com/pattanayakpratik">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=pattanayakpratik&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165" />
+  </a>
 
 <br />
 
